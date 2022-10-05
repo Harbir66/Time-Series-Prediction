@@ -1,5 +1,5 @@
 env
-DATASET.xlsx
+# DATASET.xlsx
 DATASET_new.xlsx
-requirements.txt
+# requirements.txt
 temp.py
